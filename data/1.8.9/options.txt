@@ -1,0 +1,162 @@
+invertYMouse:false
+mouseSensitivity:0.5
+fov:0.5
+gamma:100.0
+saturation:0.0
+renderDistance:22
+guiScale:3
+particles:0
+bobView:false
+anaglyph3d:false
+maxFps:260
+fboEnable:true
+difficulty:3
+fancyGraphics:true
+ao:2
+renderClouds:false
+resourcePacks:["Skycam\u0027s Custom"]
+incompatibleResourcePacks:[]
+lastServer:50.116.4.168
+lang:en_US
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:1.0
+snooperEnabled:false
+fullscreen:false
+enableVsync:false
+useVbo:false
+hideServerAddress:false
+advancedItemTooltips:true
+pauseOnLostFocus:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:true
+chatHeightFocused:1.0
+chatHeightUnfocused:0.44366196
+chatScale:1.0
+chatWidth:1.0
+showInventoryAchievementHint:true
+mipmapLevels:4
+streamBytesPerPixel:0.5
+streamMicVolume:1.0
+streamSystemVolume:1.0
+streamKbps:0.5412844
+streamFps:0.31690142
+streamCompression:1
+streamSendMetadata:true
+streamPreferredServer:
+streamChatEnabled:0
+streamChatUserFilter:0
+streamMicToggleBehavior:0
+forceUnicodeFont:false
+allowBlockAlternatives:true
+reducedDebugInfo:false
+useNativeTransport:true
+entityShadows:true
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.sprint:19
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_key.command:53
+key_key.screenshot:60
+key_key.togglePerspective:33
+key_key.smoothCamera:0
+key_key.streamStartStop:0
+key_key.streamPauseUnpause:0
+key_key.streamCommercial:0
+key_key.streamToggleMic:0
+key_key.fullscreen:87
+key_key.spectatorOutlines:0
+key_key.hotbar.1:2
+key_key.hotbar.2:3
+key_key.hotbar.3:4
+key_key.hotbar.4:5
+key_key.hotbar.5:6
+key_key.hotbar.6:7
+key_key.hotbar.7:8
+key_key.hotbar.8:9
+key_key.hotbar.9:10
+key_of.key.zoom:44
+key_Name History:0
+key_Drop entire stack:0
+key_Config:0
+key_Fishing Timer:0
+key_Waypoint Toggle:0
+key_Dwarven Map:0
+key_Open Maddox Menu:50
+key_Regular Ability:0
+key_Start/Stop Skill Tracker:0
+key_Open Friends Gui:0
+key_Add Friend:0
+key_Craft:45
+key_Enderchest:47
+key_Fast Travel:0
+key_Skyblock Menu:46
+key_Wardrobe:48
+key_Pet Menu:0
+key_Sea Creature Guide:0
+key_Accept Invite:23
+key_Set Personal Spawn:0
+key_View Stash:0
+key_Pickup Stash:0
+key_Clear Stash:0
+key_Minions:0
+key_Recipes:0
+key_Collections:0
+key_Skills:0
+key_Settings:0
+key_Death Count:0
+key_Hub:0
+key_Private Island:0
+key_Spider's Den:0
+key_Blazing Fortress:0
+key_End:0
+key_Park:0
+key_Gold Mine:0
+key_Deep Caverns:0
+key_The Barn:0
+key_Mushroom Desert:0
+key_Ruins:0
+key_Dark Auction:0
+key_Crypt:0
+key_Top of Nest:0
+key_Magma Boss Spawn:0
+key_Dragon's Nest:0
+key_Jungle Island:0
+key_Howling Cave:0
+key_Dungeon Hub:34
+key_Profile Menu:0
+key_Quest Log:0
+key_Settings:0
+key_Edit GUI Locations:0
+key_Lock Slot:38
+key_Freeze Backpack Preview:0
+soundCategory_master:0.24282561
+soundCategory_music:0.0
+soundCategory_record:0.2535211
+soundCategory_weather:0.0
+soundCategory_block:0.28873238
+soundCategory_hostile:0.58685446
+soundCategory_neutral:0.23943663
+soundCategory_player:0.17605634
+soundCategory_ambient:0.28169015
+modelPart_cape:true
+modelPart_jacket:true
+modelPart_left_sleeve:true
+modelPart_right_sleeve:true
+modelPart_left_pants_leg:true
+modelPart_right_pants_leg:true
+modelPart_hat:true
